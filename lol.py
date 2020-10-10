@@ -1,0 +1,2 @@
+import pysp
+a = 'lmao'
